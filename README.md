@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Harsh Gupta studying in Royal Global University, Ghy specialised in B.Tech CSE.
-- 👀 I’m interested in UI UX Designing and Android Software Devlopement(currently learning).
-- 🌱 I’m currently learning Flutter and Figma.
-- 📫 How to reach me - @acusaGH hgupta1160@gmail.com.
+
